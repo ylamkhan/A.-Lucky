@@ -1,0 +1,2 @@
+# A.-Lucky
+codeforces problem
